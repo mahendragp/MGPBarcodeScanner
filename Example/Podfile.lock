@@ -1,0 +1,16 @@
+PODS:
+  - MGPBarcodeScanner (0.1.0)
+
+DEPENDENCIES:
+  - MGPBarcodeScanner (from `../`)
+
+EXTERNAL SOURCES:
+  MGPBarcodeScanner:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGPBarcodeScanner: ad32f9c56162d9fe857e7535f3ca6247233255b6
+
+PODFILE CHECKSUM: 1480a8abb3672a79904d246c66df24f9f6a2ff72
+
+COCOAPODS: 1.5.2

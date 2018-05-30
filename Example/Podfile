@@ -1,0 +1,13 @@
+use_frameworks!
+
+target 'MGPBarcodeScanner_Example' do
+  pod 'MGPBarcodeScanner', :path => '../'
+
+#  target 'MGPBarcodeScanner_Tests' do
+#    inherit! :search_paths
+#
+##pod 'FBSnapshotTestCase' , '~> 2.1.4'
+#    
+#  end
+  
+end

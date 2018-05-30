@@ -1,0 +1,6 @@
+framework module MGPBarcodeScanner {
+  umbrella header "MGPBarcodeScanner-umbrella.h"
+
+  export *
+  module * { export * }
+}
