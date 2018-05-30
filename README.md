@@ -16,6 +16,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Usage
 
+You need to set a custom class to a view controller to `MGPScannerViewController`. That's it!!
 ```
     let vc = MGPScannerViewController.viewControllerFrom(storyboard: "Main", withIdentifier: "MGPScannerViewController")!
     vc.delegate = self 
